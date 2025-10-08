@@ -35,3 +35,8 @@ Page 620 to 624
 
 # Bonus 
 Page 625 to 638
+1) import data
+2) descriptive statistics & display the data
+3) split the data, train the model, test the model 
+4) Visualizing expected vs predicted and finding slope and coefficient
+5) Regression Model Metrics 
