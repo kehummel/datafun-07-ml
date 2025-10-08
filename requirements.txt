@@ -269,6 +269,7 @@ seaborn
 # Open source python library used for scientific and technical computing
 scipy
 
+scikit-learn
 # ======================================================
 # CONTINUOUS INTELLIGENCE AND INTERACTIVE ANALYTICS
 # ======================================================
